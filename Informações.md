@@ -6,6 +6,10 @@ Linguagens inicialmente como HTML, CSS e Java Script. O HTML HyperText Markup La
 (Linguagem de Marcação de Hipertexto), ou seja para a inserção de dados na página. O CSS  Cascading Style Sheets
 (Folhas de Estilo em Cascata), ou seja para a criação de estilos dentro da página trabalhando com cores e estilos de letras.
 Java Script, é uma linguagem em que o desenvolvedor vai gerar botões e outros artifícios para a página.
+### Bibliográfia
+
+#### Aulas/Conteúdos
+
 
 ## Conteúdo
 
@@ -49,4 +53,6 @@ uma linguagem de programação extremamente versátil para o trabalho hoje temos
  21. Interação com Banco de dados
  22. Ferramentas RAD
  23. Introdução a aplicações web.
+### Bibliográfia
 
+#### Aulas/Conteúdos
