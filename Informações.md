@@ -9,7 +9,8 @@ Java Script, é uma linguagem em que o desenvolvedor vai gerar botões e outros 
 ### Bibliográfia
 
 #### Aulas/Conteúdos
-
+https://github.com/jrlmfilho/CEMI/blob/main/Aula1.zip
+https://github.com/jrlmfilho/CEMI/blob/main/Aula2.zip
 
 ## Conteúdo
 
@@ -56,3 +57,5 @@ uma linguagem de programação extremamente versátil para o trabalho hoje temos
 ### Bibliográfia
 
 #### Aulas/Conteúdos
+https://github.com/jrlmfilho/CEMI/blob/main/Aula1_LPT.pdf.zip
+https://github.com/jrlmfilho/CEMI/blob/main/aula2_LPT.pdf.zip
