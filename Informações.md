@@ -13,6 +13,8 @@ https://github.com/jrlmfilho/CEMI/blob/main/Aula1.zip
 
 https://github.com/jrlmfilho/CEMI/blob/main/Aula2.zip
 
+https://github.com/jrlmfilho/CEMI/blob/main/Aula_Responsivo_Adaptativo.pdf
+
 ## Conteúdo
 
 1. Introdução ao Desenvolvimento Web
