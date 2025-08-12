@@ -58,6 +58,21 @@ uma linguagem de programação extremamente versátil para o trabalho hoje temos
  22. Ferramentas RAD
  23. Introdução a aplicações web.
 ### Bibliográfia
+# Bancos de dados
+
+1. Linguagem SQL.
+2. Conceitos básicos.
+3. Linguagem de Manipulação de Dados.
+4. Linguagem de Definição de Dados.
+5. Linguagem de Controle de Dados.
+6. Linguagem de Transação de Dados.
+7. Linguagem de Consulta de Dados.
+8. Introdução a Bancos de dados distribuídos.
+9. Introdução a NoSQL e Big Data.
+10. Outras arquiteturas de bancos de dados.
+
+### BIBLIOGRAFIA BÁSICA E COMPLEMENTAR
+DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, c2004. 865 p.
 
 #### Aulas/Conteúdos
 https://github.com/jrlmfilho/CEMI/blob/main/Aula1_LPT.pdf.zip
