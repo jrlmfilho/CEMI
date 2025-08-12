@@ -82,4 +82,7 @@ https://github.com/jrlmfilho/CEMI/blob/main/aula2_LPT.pdf.zip
 ### BIBLIOGRAFIA BÁSICA E COMPLEMENTAR
 DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, c2004. 865 p.
 
+## Aulas e conteúdos
+https://github.com/jrlmfilho/CEMI/blob/main/aula1_bd.pdf
+
 
