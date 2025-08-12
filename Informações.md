@@ -58,6 +58,14 @@ uma linguagem de programação extremamente versátil para o trabalho hoje temos
  22. Ferramentas RAD
  23. Introdução a aplicações web.
 ### Bibliográfia
+
+#### Aulas/Conteúdos
+https://github.com/jrlmfilho/CEMI/blob/main/Aula1_LPT.pdf.zip
+
+https://github.com/jrlmfilho/CEMI/blob/main/aula2_LPT.pdf.zip
+
+
+
 # Bancos de dados
 
 1. Linguagem SQL.
@@ -74,7 +82,4 @@ uma linguagem de programação extremamente versátil para o trabalho hoje temos
 ### BIBLIOGRAFIA BÁSICA E COMPLEMENTAR
 DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, c2004. 865 p.
 
-#### Aulas/Conteúdos
-https://github.com/jrlmfilho/CEMI/blob/main/Aula1_LPT.pdf.zip
 
-https://github.com/jrlmfilho/CEMI/blob/main/aula2_LPT.pdf.zip
