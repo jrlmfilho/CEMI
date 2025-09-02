@@ -84,5 +84,6 @@ DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, 
 
 #### Aulas e conteúdos
 https://github.com/jrlmfilho/CEMI/blob/main/aula1_bd.pdf
+https://github.com/jrlmfilho/CEMI/blob/main/Aula_DB2.pdf
 
 
